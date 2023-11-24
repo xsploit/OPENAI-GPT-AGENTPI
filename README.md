@@ -48,11 +48,12 @@ OPENAI_API_KEY=your_key_here
 2. **Endpoints**
    - `/chat`: Interacts with the OpenAI chat model for investigative summaries.
    - `/upload`: Manages file uploads for further processing.
-   - `/analyzeImage`: Endpoint for image analysis and description.
+   - `analyzeImage`: function for image analysis and description.
    - Additional customized endpoints based on application needs.
 
 3. **API Interaction**
    - Use tools like Postman or integrate with a frontend for API interaction.
+   - or Use Front end Provided In Public Folder
 
 ## Contributing
 
