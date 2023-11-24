@@ -89,7 +89,7 @@ async function fetchSearchResults(query) {
       method: "post",
       url: "https://google.serper.dev/search",
       headers: {
-          "X-API-KEY": "d1e6a25cc928e66df021717810383a98ce119298",
+          "X-API-KEY": "dink",
           "Content-Type": "application/json",
       },
       data: JSON.stringify({ q: query }),
